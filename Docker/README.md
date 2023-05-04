@@ -10,6 +10,14 @@
 * 启动 容器 的 命令 ， 建议写在一个 脚本里 。
 
 
+### 如何安装 nvidia-docker 请参阅 , nvidia-docker 可以在 docker 中访问 gpu 资源 
+
+[nvidia - install guide ](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker)
+
+[安装nvidia-docker的步骤](https://blog.51cto.com/zhangxueliang/6128778)
+
+[安装nvidia-docker](http://www.manongjc.com/detail/54-gmabytaontbijah.html)
+
 ### 本 docker 的一些参数
 
 * 镜像是 基于 nvidia 的 11.8 - ubuntu 2004 制作
