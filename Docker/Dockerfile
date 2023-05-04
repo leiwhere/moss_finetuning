@@ -70,3 +70,6 @@ RUN pip3 install \
     deep_training
 
 
+# clone code 
+git  clone  https://github.com/ssbuild/moss_finetuning.git
+
